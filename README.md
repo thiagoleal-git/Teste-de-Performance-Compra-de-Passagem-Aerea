@@ -42,7 +42,7 @@ Sugestões para melhorar a performance e evitar falhas nas requisições incluem
 Para executar o script, siga os seguintes passos:
 
 1. Instale o JMeter na sua máquina.
-2. Clone este repositório.
+2. Clone este repositório: git@github.com:thiagoleal-git/Teste-de-Performance-Compra-de-Passagem-Aerea.git
 3. Abra o script "Teste de Compra de Passagem Aérea" no JMeter.
 4. Execute o script.
 5. Os resultados serão gerados em um arquivo .jtl na mesma pasta onde o script do teste está localizado.
